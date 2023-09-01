@@ -1,0 +1,999 @@
+@media (max-width: 2560px) and (min-width: 1441px){
+  .navbar-nav{
+    gap: 30px;
+    font-size: 24px;
+  }
+
+  .choose-simple .contain h1,
+  .features .contain h1,
+  .showcase .contain h1,
+  .news .contain h1,
+  .price h1,
+  .contact .contain h1{
+    font-size: 46px;
+  }
+
+  .message h1{
+    font-size: 40px;
+    width: 80%;
+    margin: 0px auto;
+  }
+
+  .choose-simple .contain p,
+  .features .contain p,
+  .about-us .contain p,
+  .showcase .contain p,
+  .news .contain p,
+  .message p,
+  .price p,
+  .contact .contain p{
+    width: 100%;
+    font-size: 23px;
+  }
+
+  .features .contain .features-subcontent img{
+    width: 100px;
+    height: 35px;
+  }
+  
+  .features .contain .features-subcontent p{
+    font-size: 23px;
+    width: 100%;
+    transform: translateY(-20px);
+    margin-left: 10px;
+  }
+  
+  .features .contain .features-subcontent .media-center{
+    top: 300px;
+    right: 1020px;
+  }
+  
+  .features .contain .features-subcontent .web-design{
+    top: 380px;
+    right: 750px;
+  }
+  
+  .features .contain .features-subcontent .seo{
+    top: 450px;
+    right: 740px;
+  }
+  
+  .features .contain .features-subcontent .logo-design{
+    top: 690px;
+    right: 710px;
+  }
+  
+  .features .contain .features-subcontent .email-marketing{
+    top: 370px;
+    left: 680px;
+  }
+
+  .features .contain .features-subcontent .analysis{
+    top: 680px;
+    left: 680px;
+  }
+
+  .message::after{
+    right: 2000px !important;
+  }
+
+  .message::before{
+    left: 2000px !important;
+  }
+}
+
+@media (max-width: 1440px) and (min-width: 1201px){
+  /*.features .contain .features-subcontent .media-center{
+    top: 280px;
+    right: 580px;
+  }
+
+  .features .contain .features-subcontent .web-design{
+    top: 350px;
+    right: 370px;
+  }
+
+  .features .contain .features-subcontent .seo{
+    top: 430px;
+    right: 310px;
+  }
+
+  .features .contain .features-subcontent .logo-design{
+    top: 670px;
+    right: 280px;
+  }
+
+  .features .contain .features-subcontent .email-marketing{
+    top: 350px;
+    left: 240px;
+  }
+
+  .features .contain .features-subcontent .analysis{
+    top: 640px;
+    left: 320px;
+  }*/
+}
+
+@media (max-width: 1024px) and (min-width: 993px){
+  .features .contain .features-subcontent img{
+    width: 40px;
+    height: 15px;
+  }  
+
+  .features .contain .features-subcontent p{
+    font-size: 14px;
+    margin-left: 3px;
+    transform: translateY(-5px);
+    width: 80%;
+  }
+
+  .features .contain .features-subcontent .media-center{
+    top: 270px;
+    right: 390px;
+  }
+
+  .features .contain .features-subcontent .web-design{
+    width: 30%;
+    top: 340px;
+    right: 130px;
+  }
+
+  .features .contain .features-subcontent .seo{
+    top: 400px;
+    right: 150px;
+  }
+
+  .features .contain .features-subcontent .email-marketing{
+    width: 20%;
+    top: 350px;
+    left: 30px;
+  }
+
+  .features .contain .features-subcontent .analysis{
+    width: 20%;
+    top: 560px;
+    left: 180px;
+  }
+
+  .features .contain .features-subcontent .logo-design{
+    top: 600px;
+    right: 130px;
+  }
+}
+
+@media (max-width: 1200px) and (min-width: 1025px){
+  .features .contain .features-subcontent .media-center{
+    top: 280px;
+    right: 470px;
+  }
+
+  .features .contain .features-subcontent .web-design{
+    top: 350px;
+    right: 270px;
+  }
+
+  .features .contain .features-subcontent .seo{
+    top: 420px;
+    right: 210px;
+  }
+
+  .features .contain .features-subcontent .logo-design{
+    top: 680px;
+    right: 180px;
+  }
+
+  .features .contain .features-subcontent .email-marketing{
+    top: 340px;
+    left: 140px;
+  }
+
+  .features .contain .features-subcontent .analysis{
+    top: 640px;
+    left: 180px;
+  }
+}
+
+@media (max-width: 1024px) and (min-width: 993px){
+  .features .contain .features-subcontent img{
+    width: 40px;
+    height: 15px;
+  }  
+
+  .features .contain .features-subcontent p{
+    font-size: 14px;
+    margin-left: 3px;
+    transform: translateY(-5px);
+    width: 80%;
+  }
+
+  .features .contain .features-subcontent .media-center{
+    top: 270px;
+    right: 390px;
+  }
+
+  .features .contain .features-subcontent .web-design{
+    width: 30%;
+    top: 340px;
+    right: 130px;
+  }
+
+  .features .contain .features-subcontent .seo{
+    top: 400px;
+    right: 150px;
+  }
+
+  .features .contain .features-subcontent .email-marketing{
+    width: 20%;
+    top: 350px;
+    left: 30px;
+  }
+
+  .features .contain .features-subcontent .analysis{
+    width: 20%;
+    top: 560px;
+    left: 180px;
+  }
+
+  .features .contain .features-subcontent .logo-design{
+    top: 600px;
+    right: 130px;
+  }
+
+  .logo .contain{
+    gap: 60px;
+  }
+
+  .message h1::after{
+    right: 220px;
+  }
+  
+  .message h1::before{
+    left: 220px;
+  }
+}
+
+@media (max-width: 992px) and (min-width: 769px){
+  .navbar-nav{
+    flex-direction: row;
+  }
+
+  .features .contain .features-subcontent img{
+    width: 40px;
+    height: 15px;
+  }  
+
+  .features .contain .features-subcontent p{
+    font-size: 14px;
+    margin-left: 3px;
+    transform: translateY(-5px);
+    width: 80%;
+  }
+
+  .features .contain .features-subcontent .media-center{
+    top: 270px;
+    right: 380px;
+  }
+
+  .features .contain .features-subcontent .web-design{
+    width: 30%;
+    top: 340px;
+    right: 130px;
+  }
+
+  .features .contain .features-subcontent .seo{
+    top: 400px;
+    right: 140px;
+  }
+
+  .features .contain .features-subcontent .email-marketing{
+    width: 20%;
+    top: 350px;
+    left: 20px;
+  }
+
+  .features .contain .features-subcontent .analysis{
+    width: 20%;
+    top: 560px;
+    left: 180px;
+  }
+
+  .features .contain .features-subcontent .logo-design{
+    top: 600px;
+    right: 130px;
+  }
+
+  .logo .contain{
+    gap: 60px;
+  }
+}
+
+@media (max-width: 768px) and (min-width: 577px){
+  .navbar-nav{
+    flex-direction: row;
+    gap: 10px;
+  }
+
+  .about-us{
+    display: block;
+    flex-direction: column;
+  }
+
+  .choose-simple .contain h1,
+  .features .contain h1,
+  .showcase .contain h1,
+  .news .contain h1,
+  .price h1,
+  .contact .contain h1{
+    font-size: 26px;
+  }
+
+  .message h1{
+    font-size: 25px;
+    width: 50%;
+    margin: 0px auto;
+  }
+
+  .choose-simple .contain p,
+  .features .contain p,
+  .about-us .contain p,
+  .showcase .contain p,
+  .news .contain p,
+  .message p,
+  .price p,
+  .contact .contain p{
+    width: 100%;
+    font-size: 13px;
+  }
+
+  .features .contain .features-subcontent img{
+    width: 30px;
+    height: 15px;
+  }  
+
+  .features .contain .features-subcontent p{
+    font-size: 12px;
+    margin-left: 3px;
+    transform: translateY(-5px);
+    width: 80%;
+  }
+
+  .features .contain .features-subcontent .media-center{
+    top: 240px;
+    right: 280px;
+  }
+
+  .features .contain .features-subcontent .web-design{
+    width: 30%;
+    top: 300px;
+    right: 80px;
+  }
+
+  .features .contain .features-subcontent .seo{
+    top: 350px;
+    right: 90px;
+  }
+
+  .features .contain .features-subcontent .email-marketing{
+    width: 20%;
+    top: 310px;
+    left: 20px;
+  }
+
+  .features .contain .features-subcontent .analysis{
+    width: 10%;
+    top: 460px;
+    left: 210px;
+  }
+
+  .features .contain .features-subcontent .logo-design{
+    top: 480px;
+    right: 80px;
+  }
+
+  .logo .contain{
+    gap: 40px;
+    margin: 10px 0px;
+  }
+  
+  .logo .contain img{
+    width: 70px;
+    height: 70px;
+  }
+
+  .numbers .contain{
+    gap: 10px;
+  }
+
+  .numbers img{
+    width: 20px;
+    height: 20px;
+  }
+
+  .numbers p{
+    margin-left: 3px;
+    font-size: 10px;
+  }
+
+  .message h1::after{
+    width: 40px;
+    right: 330px;
+  }
+  
+  .message h1::before{
+    width: 40px;
+    left: 330px;
+  }
+
+  .message button{
+    padding: 10px;
+    font-size: 10px;
+  }
+
+  .social-icons .contain{
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+  }
+  
+  .social-icons a img{
+    width: 30px;
+    height: 30px;
+  }
+
+  header .contain .email-field{
+    width: 100%;
+  }
+}
+
+@media (max-width: 576px) and (min-width: 426px){
+  .navbar-nav{
+    flex-direction: row;
+    font-size: 12px;
+    gap: 10px;
+  }
+
+  .about-us{
+    display: block;
+    flex-direction: column;
+  }
+
+  .choose-simple .contain h1,
+  .features .contain h1,
+  .showcase .contain h1,
+  .news .contain h1,
+  .price h1,
+  .contact .contain h1{
+    font-size: 26px;
+  }
+
+  .message h1{
+    font-size: 22px;
+    width: 60%;
+    margin: 0px auto;
+  }
+
+  .choose-simple .contain p,
+  .features .contain p,
+  .about-us .contain p,
+  .showcase .contain p,
+  .news .contain p,
+  .message p,
+  .price p,
+  .contact .contain p{
+    width: 100%;
+    font-size: 13px;
+  }
+
+  .features .contain .features-subcontent img{
+    width: 30px;
+    height: 15px;
+  }  
+
+  .features .contain .features-subcontent p{
+    font-size: 12px;
+    margin-left: 3px;
+    transform: translateY(-5px);
+    width: 80%;
+  }
+
+  .features .contain .features-subcontent .media-center{
+    top: 240px;
+    right: 160px;
+  }
+
+  .features .contain .features-subcontent .web-design{
+    width: 30%;
+    top: 270px;
+    left: 335px;
+  }
+
+  .features .contain .features-subcontent .seo{
+    top: 310px;
+    left: 410px;
+  }
+
+  .features .contain .features-subcontent .email-marketing{
+    width: 20%;
+    top: 275px;
+    left: 20px;
+  }
+
+  .features .contain .features-subcontent .analysis{
+    width: 20%;
+    top: 390px;
+    left: 110px;
+  }
+
+  .features .contain .features-subcontent .logo-design{
+    top: 420px;
+    right: 40px;
+  }
+
+  .logo .contain{
+    gap: 20px;
+    margin: 10px 0px;
+  }
+  
+  .logo .contain img{
+    width: 50px;
+    height: 50px;
+  }
+
+  .numbers .contain{
+    gap: 10px;
+  }
+
+  .numbers img{
+    width: 20px;
+    height: 20px;
+  }
+
+  .numbers p{
+    margin-left: 3px;
+    font-size: 10px;
+  }
+
+  .message h1::after{
+    width: 40px;
+    right: 290px;
+  }
+  
+  .message h1::before{
+    width: 40px;
+    left: 290px;
+  }
+
+  .message button{
+    padding: 10px;
+    font-size: 10px;
+  }
+
+  .social-icons .contain{
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+  }
+  
+  .social-icons a img{
+    width: 20px;
+    height: 20px;
+  }
+
+  header .contain .email-field,
+  .contact .contain .contact-info form{
+    width: 100%;
+  }
+}
+
+@media (max-width: 425px) and (min-width: 376px){
+  .navbar-nav{
+    display: none;
+  }
+
+  .about-us{
+    flex-direction: column;
+  }
+
+  .choose-simple .contain h1,
+  .features .contain h1,
+  .showcase .contain h1,
+  .news .contain h1,
+  .price h1,
+  .contact .contain h1{
+    font-size: 26px;
+  }
+
+  .message h1{
+    font-size: 22px;
+    width: 70%;
+    margin: 0px auto;
+  }
+
+  .choose-simple .contain p,
+  .features .contain p,
+  .about-us .contain p,
+  .showcase .contain p,
+  .news .contain p,
+  .message p,
+  .price p,
+  .contact .contain p{
+    width: 100%;
+    font-size: 13px;
+  }
+
+  .features .contain .features-subcontent img{
+    width: 30px;
+    height: 10px;
+  }  
+
+  .features .contain .features-subcontent p{
+    font-size: 8px;
+    margin-left: 3px;
+    transform: translateY(-5px);
+    width: 80%;
+  }
+
+  .features .contain .features-subcontent .media-center{
+    top: 260px;
+    right: 120px;
+  }
+
+  .features .contain .features-subcontent .web-design{
+    width: 30%;
+    top: 290px;
+    left: 260px;
+  }
+
+  .features .contain .features-subcontent .seo{
+    top: 320px;
+    left: 315px;
+  }
+
+  .features .contain .features-subcontent .email-marketing{
+    width: 20%;
+    top: 290px;
+    left: 10px;
+  }
+
+  .features .contain .features-subcontent .analysis{
+    width: 20%;
+    top: 380px;
+    left: 90px;
+  }
+
+  .features .contain .features-subcontent .logo-design{
+    top: 395px;
+    right: 20px;
+  }
+
+  .logo .contain{
+    gap: 20px;
+    margin: 10px 0px;
+  }
+  
+  .logo .contain img{
+    width: 50px;
+    height: 50px;
+  }
+
+  .numbers .contain{
+    gap: 10px;
+  }
+
+  .numbers img{
+    width: 20px;
+    height: 20px;
+  }
+
+  .numbers p{
+    margin-left: 3px;
+    font-size: 10px;
+  }
+
+  .message h1::after{
+    width: 40px;
+    right: 290px;
+  }
+  
+  .message h1::before{
+    width: 40px;
+    left: 290px;
+  }
+
+  .message button{
+    padding: 10px;
+    font-size: 10px;
+  }
+
+  .social-icons .contain{
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+  }
+  
+  .social-icons a img{
+    width: 20px;
+    height: 20px;
+  }
+
+  header .contain .email-field,
+  .contact .contain .contact-info form{
+    width: 100%;
+  }
+}
+
+@media (max-width: 375px) and (min-width: 321px){
+  .navbar-nav{
+    display: none;
+  }
+
+  .choose-simple .contain h1,
+  .features .contain h1,
+  .showcase .contain h1,
+  .news .contain h1,
+  .price h1,
+  .contact .contain h1{
+    font-size: 26px;
+  }
+
+  .message h1{
+    font-size: 20px;
+    width: 80%;
+    margin: 0px auto;
+  }
+
+  .choose-simple .contain p,
+  .features .contain p,
+  .about-us .contain p,
+  .showcase .contain p,
+  .news .contain p,
+  .message p,
+  .price p,
+  .contact .contain p{
+    width: 100%;
+    font-size: 13px;
+  }
+
+  .features .contain .features-subcontent img{
+    width: 30px;
+    height: 10px;
+  }  
+
+  .features .contain .features-subcontent p{
+    font-size: 8px;
+    margin-left: 3px;
+    transform: translateY(-5px);
+    width: 80%;
+  }
+
+  .features .contain .features-subcontent .media-center{
+    top: 200px;
+    right: 140px;
+  }
+
+  .features .contain .features-subcontent .web-design{
+    width: 30%;
+    top: 280px;
+    left: 220px;
+  }
+
+  .features .contain .features-subcontent .seo{
+    top: 310px;
+    left: 280px;
+  }
+
+  .features .contain .features-subcontent .email-marketing{
+    width: 20%;
+    top: 280px;
+    left: 10px;
+  }
+
+  .features .contain .features-subcontent .analysis{
+    width: 20%;
+    top: 360px;
+    left: 75px;
+  }
+
+  .features .contain .features-subcontent .logo-design{
+    top: 380px;
+    right: 10px;
+  }
+
+  .logo .contain{
+    gap: 20px;
+    margin: 10px 0px;
+  }
+  
+  .logo .contain img{
+    width: 40px;
+    height: 40px;
+  }
+
+  .numbers .contain{
+    gap: 10px;
+  }
+
+  .numbers img{
+    width: 20px;
+    height: 20px;
+  }
+
+  .numbers p{
+    margin-left: 3px;
+    font-size: 10px;
+  }
+
+  .message h1::after{
+    width: 30px;
+    right: 270px;
+  }
+  
+  .message h1::before{
+    width: 30px;
+    left: 270px;
+  }
+
+  .message button{
+    padding: 10px;
+    font-size: 10px;
+  }
+
+  .social-icons .contain{
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+  }
+  
+  .social-icons a img{
+    width: 20px;
+    height: 20px;
+  }
+
+  header .contain .email-field,
+  .contact .contain .contact-info form{
+    width: 100%;
+  }
+}
+
+@media (max-width: 320px){
+
+  .navbar-nav{
+    display: none;
+  }
+
+  .about-us{
+    flex-direction: column;
+  }
+
+  .about-us img{
+    width: 200px;
+    height: 200px;
+  }
+
+  .choose-simple .contain h1,
+  .features .contain h1,
+  .showcase .contain h1,
+  .news .contain h1,
+  .price h1,
+  .contact .contain h1{
+    font-size: 26px;
+  }
+
+  .message h1{
+    font-size: 20px;
+    width: 80%;
+    margin: 0px auto;
+  }
+
+  .choose-simple .contain p,
+  .features .contain p,
+  .about-us .contain p,
+  .showcase .contain p,
+  .news .contain p,
+  .message p,
+  .price p,
+  .contact .contain p{
+    width: 100%;
+    font-size: 13px;
+  }
+
+  .features .contain .features-subcontent img{
+    width: 30px;
+    height: 10px;
+  }  
+
+  .features .contain .features-subcontent p{
+    font-size: 8px;
+    margin-left: 3px;
+    transform: translateY(-5px);
+    width: 80%;
+  }
+
+  .features .contain .features-subcontent .media-center{
+    top: 270px;
+    right: 70px;
+  }
+
+  .features .contain .features-subcontent .web-design{
+    width: 30%;
+    top: 290px;
+    left: 190px;
+  }
+
+  .features .contain .features-subcontent .seo{
+    top: 315px;
+    left: 230px;
+  }
+
+  .features .contain .features-subcontent .email-marketing{
+    width: 20%;
+    top: 290px;
+    left: 10px;
+  }
+
+  .features .contain .features-subcontent .analysis{
+    width: 20%;
+    top: 360px;
+    left: 55px;
+  }
+
+  .features .contain .features-subcontent .logo-design{
+    top: 380px;
+    right: 0px;
+  }
+
+  .logo .contain{
+    gap: 20px;
+    margin: 10px 0px;
+  }
+  
+  .logo .contain img{
+    width: 40px;
+    height: 40px;
+  }
+
+  .numbers .contain{
+    gap: 10px;
+  }
+
+  .numbers img{
+    width: 20px;
+    height: 20px;
+  }
+
+  .numbers p{
+    margin-left: 3px;
+    font-size: 10px;
+  }
+
+  .message h1::after{
+    width: 30px;
+    right: 230px;
+  }
+  
+  .message h1::before{
+    width: 30px;
+    left: 230px;
+  }
+
+  .message button{
+    padding: 10px;
+    font-size: 10px;
+  }
+
+  .social-icons .contain{
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+  }
+  
+  .social-icons a img{
+    width: 20px;
+    height: 20px;
+  }
+
+  header .contain .email-field,
+  .contact .contain .contact-info form{
+    width: 100%;
+  }
+}
